@@ -15,15 +15,15 @@ Cam new still seems to be the guy getting the bulk of the rushes through week 2.
 
 # Bills
 
-Still no clear RB1 from the backfield with Singletary and Moss splitting carries once again, though singletary did log 2 mor attempts for what it's worth. Diggs, Brown, and Beasly had similar opportunities as last week.
+Still no clear RB1 from the backfield with Singletary and Moss splitting carries once again, though Singletary did log 2 more attempts for what it's worth. Diggs, Brown, and Beasly had similar opportunities as last week.
 
 # Dolphins
 
-Miles Gaskin seems to have emerged as the main guy in the backfield, leading in carries and by far in targets and receptions. The team still seems to be spreading the attempts around but Gaskin has been the sole pass catcher. With 46 targets to go around, Mike Gesicki and Isaiah Ford had the most opportunities now 1 and 2 on the season in target shares with Parker falling to 3rd. This was the emergence of Gesicki people were hoping for drafting him as a sleeper, and Frod may be someone to watch. Preston Williams fell behind those three only logging 5 targets vs 7 last week.
+Miles Gaskin seems to have emerged as the main guy in the backfield, leading in carries and by far in targets and receptions. The team still seems to be spreading the attempts around but Gaskin has been the sole pass catcher. With 46 targets to go around, Mike Gesicki and Isaiah Ford had the most opportunities now 1 and 2 on the season in target shares with Parker falling to 3rd. This was the emergence of Gesicki people were hoping for drafting him as a sleeper, and Ford may be someone to watch. Preston Williams fell behind those three only logging 5 targets vs 7 last week.
 
 # Jets
 
-With Crowder out Darnold spread the ball out a bit more. Braxton Berrios was the main beneficiary, not Herndon who many expected to feast in targets. Don't look for this to continue however when Cordwer comes back. With Le'Veon hurt, Frank Gore dominated the backfield touches.
+With Crowder out Darnold spread the ball out a bit more. Braxton Berrios was the main beneficiary, not Herndon who many expected to feast in targets. Don't look for this to continue however when Crowder comes back. With Le'Veon hurt, Frank Gore dominated the backfield touches.
 
 ## AFC North
 
@@ -43,7 +43,7 @@ Chubb out touched Hunt this past week unlike week 1 but both were still used hea
 
 # Bengals
 
-Mixon still dominated the rush attempts and got a little more targets out of the backfield too this week, but Gio Bernard still held down his role as the 3rd down and late game pass catcher. Burrow went to the tight ends a ton in week 2, 15 targets in all. Drew Sample will be someone to watch after the Uzomah injury. AJ Green is still depended on heavily, and Tyler boyd remains the clear second receiver.
+Mixon still dominated the rush attempts and got a little more targets out of the backfield too this week, but Gio Bernard still held down his role as the 3rd down and late game pass catcher. Burrow went to the tight ends a ton in week 2, 15 targets in all. Drew Sample will be someone to watch after the Uzomah injury. AJ Green is still depended on heavily, and Tyler Boyd remains the clear second receiver.
 
 ## AFC South
 
@@ -83,7 +83,7 @@ Darren Waller has arrived. After leading in target share week 1, he dominated we
 
 # Broncos
 
-Melvin Gordan had the bulk fo the load out of the backfield with Lindsay hurt, Royce Freeman also logged 5 touches. With the Sutton injury, Jeudy seems the number 1, with Fant and Hamler following. Tim Patrick looks to be involved as well.
+Melvin Gordan had the bulk of the load out of the backfield with Lindsay hurt, Royce Freeman also logged 5 touches. With the Sutton injury, Jeudy seems the number 1, with Fant and Hamler following. Tim Patrick looks to be involved as well.
 
 ## NFC East
 
@@ -103,7 +103,7 @@ With Sanders back, he was the clear number 1 in terms of touches earning 23 to B
 
 # Cowboys
 
-Nothing new with zeke, he is the guy. Amari Cooper is the clear number 1 receiver. Interestingly, rookie Ceedee Lamb has had a larger target share than Michael Gallup through 2 weeks. Dalton Schultz, the tight end serving as the starter post Blake Jarwin's injury had a huge day logging 10 targets with 9 catches and could be big in this offense.
+Nothing new with Zeke, he is the guy. Amari Cooper is the clear number 1 receiver. Interestingly, rookie Ceedee Lamb has had a larger target share than Michael Gallup through 2 weeks. Dalton Schultz, the tight end serving as the starter post Blake Jarwin's injury had a huge day logging 10 targets with 9 catches and could be big in this offense.
 
 ## NFC North
 
@@ -135,11 +135,11 @@ Kamara took back the lead in touches after last week with Latavius Murray only g
 
 # Falcons
 
-Gurley once again had most of the touches out of the abckfield, but was not used in the passing game this week. Ridley and Gage backed up their week 1 performances with big weeks again while Julio seemed to be banged up and got less looks, though he did drop a sure TD from a wr pass by Gage. Hayden Hurst also got into the action more with 8 targets and 5 catches.
+Gurley once again had most of the touches out of the backfield, but was not used in the passing game this week. Ridley and Gage backed up their week 1 performances with big weeks again while Julio seemed to be banged up and got less looks, though he did drop a sure TD from a wr pass by Gage. Hayden Hurst also got into the action more with 8 targets and 5 catches.
 
 # Buccaneers
 
-Ronald Jones II and Fournette split the carries this week but Fournette did much more in the passing game, which could spell bad news for Jones as Fournette could chip away a larger share each week if he performs like he did Sunday. Lesean Mccoy also got a cunk of touches through the passing game.  Mike Evans and Brady seemed to figure it out week 2 with no Godwin, while the tight ends didn't get much going their way.
+Ronald Jones II and Fournette split the carries this week but Fournette did much more in the passing game, which could spell bad news for Jones as Fournette could chip away a larger share each week if he performs like he did Sunday. Lesean Mccoy also got a chunk of touches through the passing game.  Mike Evans and Brady seemed to figure it out week 2 with no Godwin, while the tight ends didn't get much going their way.
 
 # Panthers
 
@@ -163,7 +163,7 @@ Carson proved it was his backfield week 2 out-touching Carlos Hyde 19 to 7. The 
 
 # 49ers
 
-With all of their injuries, it is hard to tell where the 49ers are or will be. Jimmy G and Shanahan seem to love their tight ends in the passing game, so if Kittle is ready to go he is the guy but Reed did great in his absence. Kendrick Bourne has been the most targeted receiver but that may change as guys are coming back from injury. In the running game is seems they are down to Jerrick McKinnon who only has 9 touches on the year but has done a lot with them, and Jeff Wislon. It is unclear how they will move forward.
+With all of their injuries, it is hard to tell where the 49ers are or will be. Jimmy G and Shanahan seem to love their tight ends in the passing game, so if Kittle is ready to go he is the guy but Reed did great in his absence. Kendrick Bourne has been the most targeted receiver but that may change as guys are coming back from injury. In the running game is seems they are down to Jerrick McKinnon who only has 9 touches on the year but has done a lot with them, and Jeff Wilson. It is unclear how they will move forward.
 
 
 
