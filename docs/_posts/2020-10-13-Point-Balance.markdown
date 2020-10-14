@@ -138,4 +138,4 @@ The full code for scraping the data, analyzing it, plus the output images and ta
 [Basketball Analytics]: https://books.google.com/books/about/Basketball_Analytics.html?id=f1IbnwEACAAJ
 [effective FG%]: https://www.basketball-reference.com/about/glossary.html
 [here]: https://github.com/ckirch8/NBA_Point_Balance
-[basketball-reference.com]: basketball-reference.com
+[basketball-reference.com]: https://www.basketball-reference.com
