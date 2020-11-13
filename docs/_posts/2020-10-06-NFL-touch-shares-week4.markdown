@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "NFL Rush, Target, and Touch Shares through Week 3"
+title: "NFL Rush, Target, and Touch Shares through Week 4"
 ---
 
 This data was scraped from [Pro Football Reference] and the data plus code used to scrape the data can be found [here].
 
 # AFC East
 
-![AFC East week 4 1](/assets/AFC_East_1_2.PNG)
+![AFC East week 4 1](/assets/AFC_East_4_1.PNG)
 
 ## Patriots
 
